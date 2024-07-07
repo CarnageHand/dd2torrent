@@ -7,9 +7,9 @@ on:
 env:
   name: "Android Studio and SDK Tools"
   comment: "Android Studio for Windows"
-  url: "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.2.0/android-studio-ide-201.7042882-windows.exe"
-  file_name: "android-studio-ide-201.7042882-windows.exe"
-  piece_size: 19 # Check the README.md for recommended piece size
+  url: "https://download2436.mediafire.com/rju5iyhgrsmgqxDdurs_aqxQiQuYDiJn_0w3fusg7BQmY8b0MvlPk9GqwKpvIZvWDGHr1FKvOOJzvASpHTFSmuB321LxuMKd6RWntv6l46o0MApvOPQy2fwCqPj27OBtl0SKxJ6itrXr721xKYS_lb_x0bl1keA4fhfU-iUpd2-dZ02k/3fw8t0cx8bvvute/Eternum-0.7.5-pc.zip"
+  file_name: "Eternum.zip"
+  piece_size: 2^22 # Check the README.md for recommended piece size
       
 jobs:
   create:
